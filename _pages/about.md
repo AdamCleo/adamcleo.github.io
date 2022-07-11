@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Home"
-excerpt: "Home"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About Me
 
 I am a Ph.D. student in Biomedical Engineering at Boston University. I am working in [Computational Imaging Systems Lab](https://sites.bu.edu/tianlab/) advised by [Prof. Lei Tian](https://sites.bu.edu/tianlab/people/lei-tian/). My current work is developing deep-learning denoising for ultra-fast, large-scale, high-resolution neural imaging. 
 
