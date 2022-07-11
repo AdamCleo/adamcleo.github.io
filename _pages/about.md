@@ -16,7 +16,7 @@ I am a Ph.D. student in Biomedical Engineering at Boston University. I am workin
 [[link]](https://www.biorxiv.org/content/10.1101/2021.12.07.471668v1)
 [[pdf]](/files/Platisa_et_al_2021_High-Speed_Low-Light_In_Vivo_Two-Photon_Voltage_Imaging_of_Large_Neuronal_Populations.pdf)
 
-* **Liu, C.**\*, Yu, K.\*, Niu, X., & He, B. (2021). Transcranial focused ultrasound enhances sensory discrimination capability through somatosensory cortical excitation. Ultrasound in Medicine & Biology, 47(5), 1356-1366.
+* **Liu, C.\***, Yu, K.\*, Niu, X., & He, B. (2021). Transcranial focused ultrasound enhances sensory discrimination capability through somatosensory cortical excitation. Ultrasound in Medicine & Biology, 47(5), 1356-1366.
 [[link]](https://www.sciencedirect.com/science/article/pii/S0301562921000508)
 [[pdf]](/files/Liu_et_al_2021_Transcranial_Focused_Ultrasound_Enhances_Sensory_Discrimination_Capability.pdf)
 
