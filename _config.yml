@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chang Liu"
 title_separator          : "-"
 name                     : &name "Chang Liu"
-description              : &description "personal description"
+description              : &description "Chang's Personal Website"
 url                      : https://adamcleo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AdamCleo/adamcleo.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "adamcleo"
   orcid            : "https://orcid.org/0000-0001-5560-7203"
   pinterest        :
   soundcloud       :
