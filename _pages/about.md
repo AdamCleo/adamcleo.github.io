@@ -35,7 +35,10 @@ Previously, Chang received his B.S. in Biomedical Engineering from Tsinghua Univ
 * Liu, D., **Liu, C.**, Chen, J., Zhang, D., & Hong, B. (2020). Doubling the speed of N200 speller via dual-directional motion encoding. *IEEE Transactions on Biomedical Engineering, 68*(1), 204-213.
 [[link]](https://doi.org/10.1109/TBME.2020.3005518)
 
-# Conference Abstracts
+# Conference Proceedings
+
+* **Liu, C.**, Platisa, J., Ye, X., Ahrens, A. M., Chen, I. A., Davison, I. G., ... & Tian, L. (2024, March). Resolution-improved self-supervised two-photon voltage imaging denoising. In *Neural Imaging and Sensing* 2024 (p. PC1282807). SPIE.
+[[link]](https://doi.org/10.1117/12.3003148)
 
 * **Liu, C.**, Platisa, J., Ye, X., Ahrens, A. M., Chen, I. A., Davison, I. G., ... & Tian, L. (2023, March). Two-photon voltage imaging denoising by self-supervised learning. In *Neural Imaging and Sensing 2023* (Vol. 12365, pp. 13-14). SPIE.
 [[link]](https://doi.org/10.1117/12.2648122)
