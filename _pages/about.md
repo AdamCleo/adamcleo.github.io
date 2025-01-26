@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Chang Liu is a 4th-year Ph.D. student in Biomedical Engineering at Boston University. Chang joined [Computational Imaging Systems Lab](https://sites.bu.edu/tianlab/) advised by [Prof. Lei Tian](https://sites.bu.edu/tianlab/people/lei-tian/) in 2021 working on deep learning and computational imaging. His current work is developing deep-learning-based denoising algorithms for ultra-fast, large-scale, high-resolution neural imaging. 
+Chang Liu is a 5th-year Ph.D. student in Biomedical Engineering at Boston University. Chang joined [Computational Imaging Systems Lab](https://sites.bu.edu/tianlab/) advised by [Prof. Lei Tian](https://sites.bu.edu/tianlab/people/lei-tian/) in 2021 working on deep learning and computational imaging. His current work is developing deep-learning-based denoising algorithms for ultra-fast, large-scale, high-resolution neural imaging. 
 
 Chang is expertized in **self-supervised learning, image/video denoising, and biomedical signal processing**. He is proficient in Python, MATLAB, and common deep learning tools including PyTorch and TensorFlow. His research interests include **deep learning, computational imaging, signal processing, brain-computer interfaces, and neuromodulation**.
 
@@ -16,13 +16,21 @@ Previously, Chang received his B.S. in Biomedical Engineering from Tsinghua Univ
 
 # Journal Publications
 
+* **Liu, C.**, Lu, J., Wu, Y., Ye, X., Ahrens, A. M., Platisa, J., ... & Tian, L. (2024). DeepVID v2: self-supervised denoising with decoupled spatiotemporal enhancement for low-photon voltage imaging. *Neurophotonics, 11*(4), 045007. 
+[[link]](https://doi.org/10.1117/1.NPh.11.4.045007)
+[[pdf]](https://www.spiedigitallibrary.org/journalArticle/Download?urlId=10.1117%2F1.NPh.11.4.045007)
+
+* Ding, G., **Liu, C.**, Yin, J., Teng, X., Tan, Y., He, H., ... & Cheng, J. X. (2024). Self-Supervised Elimination of Non-Independent Noise in Hyperspectral Imaging. *arXiv preprint arXiv:2409.09910*.
+[[link]](https://doi.org/10.48550/arXiv.2409.09910)
+[[pdf]](https://arxiv.org/pdf/2409.09910)
+
+* Kosnoff, J., Yu, K., **Liu, C.**, & He, B. (2024). Transcranial focused ultrasound to V5 enhances human visual motion brain-computer interface by modulating feature-based attention. *Nature Communications, 15*(1), 4382.
+[[link]](https://doi.org/10.1038/s41467-024-48576-8)
+[[pdf]](https://www.nature.com/articles/s41467-024-48576-8.pdf)
+
 * Platisa, J., Ye, X., Ahrens, A. M., **Liu, C.**, Chen, I. A., Davison, I. G., ... & Chen, J. L. (2023). High-speed low-light in vivo two-photon voltage imaging of large neuronal populations. *Nature methods, 20*(7), 1095-1103.
 [[link]](https://doi.org/10.1038/s41592-023-01820-3)
 [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10894646/pdf/nihms-1952522.pdf)
-
-* Kosnoff, J., Yu, K., **Liu, C.**, & He, B. (2023). Transcranial Focused Ultrasound to V5 Enhances Human Visual Motion Brain-Computer Interface by Modulating Feature-Based Attention. *bioRxiv*, 2023-09.
-[[link]](https://doi.org/10.1101/2023.09.04.556252)
-[[pdf]](https://www.biorxiv.org/content/10.1101/2023.09.04.556252v1.full.pdf)
 
 * **Liu, C.\***, Yu, K.\*, Niu, X., & He, B. (2021). Transcranial focused ultrasound enhances sensory discrimination capability through somatosensory cortical excitation. *Ultrasound in Medicine & Biology, 47*(5), 1356-1366.
 [[link]](https://doi.org/10.1016/j.ultrasmedbio.2021.01.025)
