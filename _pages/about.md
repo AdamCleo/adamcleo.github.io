@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Chang Liu is a 5th-year Ph.D. student in Biomedical Engineering at Boston University. Chang joined [Computational Imaging Systems Lab](https://sites.bu.edu/tianlab/) advised by [Prof. Lei Tian](https://sites.bu.edu/tianlab/people/lei-tian/) in 2021 working on deep learning and computational imaging. His current work is developing deep-learning-based denoising algorithms for ultra-fast, large-scale, high-resolution neural imaging. 
+Chang Liu is a 5th-year Ph.D. student in [Computational Imaging Systems Lab](https://sites.bu.edu/tianlab/) at Boston University, specializing in **deep learning, computational imaging, and signal processing**. His research focuses on developing self-supervised video denoising frameworks for high-speed fluorescence imaging, leveraging generative models for uncertainty quantification, and integrating advanced computational methods into imaging systems to enhance experimental efficiency. 
 
-Chang is expertized in **self-supervised learning, image/video denoising, and biomedical signal processing**. He is proficient in Python, MATLAB, and common deep learning tools including PyTorch and TensorFlow. His research interests include **deep learning, computational imaging, signal processing, brain-computer interfaces, and neuromodulation**.
+Chang is actively seeking opportunities as a Machine Learning Engineer or Research Scientist, where he can apply his expertise in deep learning and computational imaging to solve real-world challenges. Chang has extensive experience with Python (PyTorch, TensorFlow), C++, MATLAB, and a range of deep learning techniques, including **self-supervised learning, diffusion models, and transformer-based architectures**.
 
-Previously, Chang received his B.S. in Biomedical Engineering from Tsinghua University in China and performed research in brain-computer interfaces (BCI) aiming to increase the speed of BCI spellers. He received his M.S. in Biomedical Engineering from Carnegie Mellon University, where he conducted research in transcranial-focused ultrasound (tFUS) neuromodulation.
+Before joining Boston University, Chang earned his M.S. from Carnegie Mellon University and his B.S. from Tsinghua University, working on projects in biomedical signal processing, brain-computer interfaces, and neuromodulation.
 
 # Journal Publications
 
